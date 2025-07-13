@@ -1,0 +1,16 @@
+# Lingkungan Virtual
+venv/
+/venv/
+
+# File cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Folder IDE
+.vscode/
+.idea/
+
+# File environment (jika ada)
+.env
